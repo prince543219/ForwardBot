@@ -33,7 +33,7 @@ async def get_stats(bot, message):
 
 
 
-@Client.on_message(filters.private & filters.command(["donate", "d"]))
+@Client.on_message(filters.private & filters.command(["donate123", "d"]))
 async def donate(client, message):
 	text = "<b>🥲 Thanks For Showing Interest In Donation! ❤️</b> \n\nIf You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice. \n\n<b>🛍 UPI ID:</b> <code>yash822208@oksbi</code>"
 	keybord = InlineKeyboardMarkup([
