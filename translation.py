@@ -19,7 +19,7 @@ class Translation(object):
   
 ➻ Click Help Button To Know More About Me
   
-<b>Bot Is Made By @Madflix_Bots</b>"""
+<b>Bot Is Made By @UmbrellaUCorp</b>"""
 
 
   HELP_TXT = """<b><u>🛠️ Help</b></u>
@@ -53,11 +53,11 @@ class Translation(object):
   ABOUT_TXT = """<b>🤖 My Name :</b> {}
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+<b>🚀 support :</b> <a href='https://t.me/UmbrellaUCorp'>𝕌𝕞𝕓𝕣𝕖𝕝𝕝𝕒 ℂ𝕠𝕣𝕡𝕠𝕣𝕒𝕥𝕚𝕠𝕟</a>
+<b>📢 Channel :</b> <a href='https://t.me/moviiieeeesss'>𝕌𝕔𝕠𝕣𝕡™</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Banner.....</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @UmbrellaUCorp"""
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
